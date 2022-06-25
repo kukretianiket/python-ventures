@@ -1,5 +1,3 @@
-EE2703 assignments and extra projects.
+## Contents
 
-1) spice_1
-2) spice_2
-3) curve fitting noisy data
+Contains my collection of code written for the course EE2703 (2021).
